@@ -5,7 +5,7 @@
 ---
 
 #### About Me:
-I'm a 23-year-old developer with a passion for technology and football. Currently, I'm pursuing my Master's degree in Business Informatics with a focus on Data Science at Aalen University, and working as a Junior Software Developer at Syfit GmbH.
+I'm a 24-year-old developer with a passion for technology and football. Currently, I'm pursuing my Master's degree in Business Informatics with a focus on Data Science at Aalen University, and working as a Junior Software Developer at Syfit GmbH.
 
 #### 🎓 Education:
 - **Master's in Business Informatics (Focus: Data Science)**  
