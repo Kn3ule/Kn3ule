@@ -30,9 +30,6 @@ I'm a 24-year-old developer with a passion for technology and football. Currentl
 #### ⚽ Personal Interests:
 - A huge football enthusiast and owner of a "DfB C-Trainer license", I dream of combining my technical skills with my love for the sport. Whether it's through data analytics in football, developing applications for sports management, or any other innovative way, I'm always keen on exploring the intersection of tech and football.
 
-#### 📈 Projects & Contributions:
-- *To see my personal projects, you can have a look on my [website](https://kn3ule.github.io).*
-
 #### 🌐 Social Links:
 - **LinkedIn:** [[Tim Konle](https://www.linkedin.com/in/tim-konle-3378a8239/)]
 - **GitHub:** [[@Kn3ule](https://github.com/Kn3ule)]
