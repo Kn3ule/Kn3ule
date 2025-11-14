@@ -16,7 +16,7 @@ I'm a 25-year-old software engineer passionate about AI, cloud technologies, and
 
 #### 💼 Professional Experience:
 
-**Software Engineer - GenAI** @ Mueller
+**Software Engineer - GenAI** @ Mueller  
 *Current*
 - Design and deploy production GenAI applications leveraging LLMs (Anthropic Claude, OpenAI, Google VertexAI) for multimodal data extraction and structured information processing at scale
 - Build full-stack Python applications including RESTful APIs (FastAPI), orchestrated ML workflows (Prefect), and microservices architecture on cloud-native infrastructure
@@ -24,7 +24,7 @@ I'm a 25-year-old software engineer passionate about AI, cloud technologies, and
 - Manage cloud infrastructure on Google Cloud Platform: Kubernetes cluster operations, database management (PostgreSQL), object storage, and DevOps tooling (Docker, Terraform, Helm)
 - Implement scalable async Python systems with comprehensive testing, CI/CD automation, and observability for production ML services
 
-**Junior Software Developer** @ Syfit
+**Junior Software Developer** @ Syfit  
 *Previous*
 - Designed and developed REST APIs and microservices for data exchange with IoT devices, mobile apps, and customer applications
 - Established AWS infrastructure, implementing AWS IoT Core for scalable IoT device communication
